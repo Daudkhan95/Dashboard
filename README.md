@@ -1,5 +1,5 @@
 
-<div id="header" align="center">
+<div id="header">
   Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
 </div>
 
